@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400&display=swap');
 
 .container {
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
   text-align: center;
   padding: 30px;
@@ -39,11 +39,11 @@ p {
 }
 
 img {
-  width: 80%;
+  width: 60%;
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 4%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
